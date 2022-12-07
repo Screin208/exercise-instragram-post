@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.external{
+    background: black;
+    height: 100vh;
+    display: flex
+}
+
+.general{
+    background: white;
+    width: 500px;
+    margin: auto;
+}
+
+
+
+.imagenCentral{
+    height: auto;
+    width: 500px;
+}
+
+.titulo{
+    font-size: 29px;
+    padding-left: 45px;
+
+}
+.subTitulo{
+
+}
+
+.imagenHtml5{
+    width: 42px;
+}
+
+.izquierda{
+    float: right;
+    margin-right: 2%;
+
+}
+
+.tamano{
+    font-size: 20px;
+}
