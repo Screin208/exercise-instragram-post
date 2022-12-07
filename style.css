@@ -15,7 +15,6 @@ body{
 }
 
 
-
 .imagenCentral{
     height: auto;
     width: 500px;
@@ -24,9 +23,6 @@ body{
 .titulo{
     font-size: 29px;
     padding-left: 45px;
-
-}
-.subTitulo{
 
 }
 
